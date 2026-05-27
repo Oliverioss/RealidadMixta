@@ -6,12 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/OliverHerrero/Scenes/SampleScene.unity
+    path: Assets/OliverHerrero/Scenes/Menu.unity
+    guid: 681eea85800ea12409b6284c36fdefb7
+  - enabled: 1
+    path: Assets/OliverHerrero/Scenes/Level1.unity
+    guid: dc5b56750e5c34b4a9ea3fb49a862299
+  - enabled: 1
+    path: Assets/OliverHerrero/Scenes/Level2.unity
+    guid: a1af51682e666e24fb244691afab5c16
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 26ca1afa742f225479de23e7230b17c3, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 36679aab88f6548409c575f7fe2a4bcf, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ff1c254b7972862439742ca509b847f3, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b49eb5f72210d6340ab6397398bb85fb, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5a8b547305d8e584c87b63b6469d9d4b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0e37d2969c75b264993636dc93c48f87, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: beb1b11a1a1f8d049a96905d6c13c3f2, type: 2}
   m_UseUCBPForAssetBundles: 0
